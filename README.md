@@ -82,7 +82,13 @@ Using MySQL, I performed advanced queries:
 Demonstrates ability to handle large datasets, optimize queries, and derive insights.
 # <h1>Dashboarding (Power BI, Tableau, Excel)</h1>
 
-Created interactive dashboards for:
+## **Power BI Dashboard**
+
+<img width="3402" height="2188" alt="Kickstarter Crowdfunding Analysis_Power BI" src="https://github.com/user-attachments/assets/58a775a4-97f3-4f89-9ad2-46dd2b7aaf94" />
+
+## **Excel Dashboard**
+
+<img width="1525" height="832" alt="image" src="https://github.com/user-attachments/assets/5d847084-dd0f-4960-8181-17ccb8a6f8ee" />
 
 # <h2>KPI Overview</h2>
 
