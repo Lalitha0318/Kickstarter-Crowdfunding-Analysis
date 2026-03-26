@@ -90,6 +90,11 @@ Demonstrates ability to handle large datasets, optimize queries, and derive insi
 
 <img width="1525" height="832" alt="image" src="https://github.com/user-attachments/assets/5d847084-dd0f-4960-8181-17ccb8a6f8ee" />
 
+## **Tableau Dashboard**
+
+<img width="1557" height="898" alt="image" src="https://github.com/user-attachments/assets/6616cc5d-b99f-493b-9bf5-82b54eb1bada" />
+
+
 # <h2>KPI Overview</h2>
 
 🔹Total projects
@@ -301,3 +306,7 @@ Created professional dashboards in:
 This Kickstarter analytics project demonstrates a complete end-to-end data workflow — from cleaning a large, messy dataset to performing advanced SQL analysis, building interactive dashboards, and generating meaningful business insights. By uncovering patterns across 365K+ campaigns, the project highlights the key drivers of crowdfunding success: realistic funding goals, strong category selection, and clear audience targeting.
 
 Beyond the insights, this project reflects strong analytical thinking, problem-solving, data storytelling, and proficiency across SQL, MySQL, Power BI, Tableau, and Excel. It showcases the ability to work with real-world scale data, design KPIs, and deliver actionable recommendations
+
+## **🔗Project Link**
+
+
