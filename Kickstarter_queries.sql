@@ -1,5 +1,9 @@
 use kickstarter_crowdfunding;
-
+-- Total Projects
+SELECT 
+    COUNT(*) AS ProjectID
+FROM 
+    kickstarter_crowdfunding.projects;
 -- Total Projects
 SELECT 
     COUNT(*) AS ProjectID
