@@ -309,5 +309,5 @@ Beyond the insights, this project reflects strong analytical thinking, problem-s
 
 ## **🔗Project Link**
 
-Excel Dashboard : https://github.com/Lalitha0318/Kickstarter-Crowdfunding-Analysis/blob/master/Kickstarter_Crowdfunding_Excel.xlsx
+Excel Dashboard : [Download Dashboard](https://github.com/Lalitha0318/Kickstarter-Crowdfunding-Analysis/blob/master/Kickstarter_Crowdfunding_Excel.xlsx)
 
